@@ -1,3 +1,3 @@
 # BF-Compiler
 
-**A compiler for brainbxxk written in Scala
+A compiler for brainb**k written in Scala
